@@ -1,4 +1,4 @@
-# J_Friends
+# Let's Crack it :) 
 
 This Repo exclusively for us to colab our codes dating from today 24/07/2020 till our ***landing Job*** 
 
